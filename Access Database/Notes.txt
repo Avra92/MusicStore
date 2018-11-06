@@ -1,0 +1,14 @@
+SELECT count(*) FROM User where Username='" + txt_username.Text + "' AND Password='" + txt_password.Text + "'
+
+
+
+OleDbDataReader reader = cmd.ExecuteReader();
+            if (reader.Read())
+            {
+                MessageBox.Show("Login Succesful");
+
+            }
+            else
+            {
+                MessageBox.Show("Ivalid Login! Please check your Username and password.");
+            }

@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MusicStore\MusicStore\bin\Debug\MusicStore.exe.config
+C:\Users\user\source\repos\MusicStore\MusicStore\bin\Debug\MusicStore.exe
+C:\Users\user\source\repos\MusicStore\MusicStore\bin\Debug\MusicStore.pdb
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.Form1.resources
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.Properties.Resources.resources
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.exe
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.Login.resources
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.Register.resources
+C:\Users\user\source\repos\MusicStore\MusicStore\obj\Debug\MusicStore.Purchase.resources
